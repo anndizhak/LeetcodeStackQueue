@@ -1,4 +1,4 @@
-""""""
+"""Implementation Queue using Stacks"""
 class Stack:
     """Basic LIFO (Last-In-First-Out) stack implementation."""
     def __init__(self):
